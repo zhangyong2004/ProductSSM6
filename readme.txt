@@ -1,4 +1,4 @@
-version-6.0
+ï»¿version-6.0
 based on version-5.0
 
-1.Ê¹ÓÃgit¹ÜÀíÏîÄ¿¡£
+1.ä½¿ç”¨gitç®¡ç†é¡¹ç›®ã€‚
